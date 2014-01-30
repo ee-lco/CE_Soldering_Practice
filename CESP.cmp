@@ -1,0 +1,262 @@
+Cmp-Mod V01 Created by CvPcb (2014-01-22 BZR 4631)-product date = Thu 30 Jan 2014 10:36:42 PM CET
+
+BeginCmp
+TimeStamp = /52EAC033;
+Reference = C1;
+ValeurCmp = C 2.5;
+IdModule  = Capacitors_ThroughHole:Capacitor4x3RM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAC05F;
+Reference = C2;
+ValeurCmp = C 2.5;
+IdModule  = Capacitors_ThroughHole:Capacitor4x3RM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAC06A;
+Reference = C3;
+ValeurCmp = C 5;
+IdModule  = Capacitors_ThroughHole:Capacitor7x2.5RM5;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAC07A;
+Reference = C4;
+ValeurCmp = C 5;
+IdModule  = Capacitors_ThroughHole:Capacitor7.5x6.5RM5;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAB524;
+Reference = IC1;
+ValeurCmp = SOT23-6;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:TSOT6-MK06A-Housing;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAB402;
+Reference = IC2;
+ValeurCmp = TSSOP20;
+IdModule  = SSOP_Packages:SSOP-20;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAB41D;
+Reference = IC3;
+ValeurCmp = SOIC16;
+IdModule  = SOIC_Packages:SOIC-16_Narrow;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAB65F;
+Reference = IC4;
+ValeurCmp = TQFP64;
+IdModule  = QFP:tqfp64-08;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E95C22;
+Reference = Q1;
+ValeurCmp = SOT23;
+IdModule  = Transistors_SMD:sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E96C76;
+Reference = Q2;
+ValeurCmp = D2PAK;
+IdModule  = Transistors_SMD:sot404;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EABB5E;
+Reference = Q3;
+ValeurCmp = TO92;
+IdModule  = Housings_TO-92:TO-92-Free-inline-narrow-oval;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EABC65;
+Reference = Q4;
+ValeurCmp = TO92;
+IdModule  = Housings_TO-92:TO-92-Free-inline-wide;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EABD6A;
+Reference = Q5;
+ValeurCmp = TO220;
+IdModule  = Transistors_TO-220:TO-220_Neutral123_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EABD75;
+Reference = Q6;
+ValeurCmp = TO220;
+IdModule  = Transistors_TO-220:TO-220_Neutral123_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EABD80;
+Reference = Q7;
+ValeurCmp = TO247;
+IdModule  = Transistors_TO-247:TO-247_Vertical_Neutral123;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAC88F;
+Reference = Q8;
+ValeurCmp = SOT23;
+IdModule  = Transistors_SMD:sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAC89A;
+Reference = Q9;
+ValeurCmp = SOT23;
+IdModule  = Transistors_SMD:sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E95B77;
+Reference = R1;
+ValeurCmp = 0402;
+IdModule  = SMD_Packages:SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E97CED;
+Reference = R2;
+ValeurCmp = 0402;
+IdModule  = SMD_Packages:SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E95B8B;
+Reference = R3;
+ValeurCmp = 0402;
+IdModule  = SMD_Packages:SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E97CF3;
+Reference = R4;
+ValeurCmp = 0402;
+IdModule  = SMD_Packages:SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E95B9F;
+Reference = R5;
+ValeurCmp = 0603;
+IdModule  = SMD_Packages:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E97CF9;
+Reference = R6;
+ValeurCmp = 0603;
+IdModule  = SMD_Packages:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E95BB3;
+Reference = R7;
+ValeurCmp = 0603;
+IdModule  = SMD_Packages:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E97CFF;
+Reference = R8;
+ValeurCmp = 0603;
+IdModule  = SMD_Packages:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E97D05;
+Reference = R9;
+ValeurCmp = 0805;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E97D1D;
+Reference = R10;
+ValeurCmp = 0805;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E97D0B;
+Reference = R11;
+ValeurCmp = 0805;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E97D23;
+Reference = R12;
+ValeurCmp = 0805;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E97D11;
+Reference = R13;
+ValeurCmp = 1206;
+IdModule  = SMD_Packages:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E97D29;
+Reference = R14;
+ValeurCmp = 1206;
+IdModule  = SMD_Packages:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E97D17;
+Reference = R15;
+ValeurCmp = 1210;
+IdModule  = SMD_Packages:SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E97D2F;
+Reference = R16;
+ValeurCmp = 2512;
+IdModule  = SMD_Packages:SM2512;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EABB18;
+Reference = R17;
+ValeurCmp = R VERT;
+IdModule  = Resistors_ThroughHole:Resistor_Vertical_RM5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EABB30;
+Reference = R18;
+ValeurCmp = R VERT;
+IdModule  = Resistors_ThroughHole:Resistor_Vertical_RM5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EABB1E;
+Reference = R19;
+ValeurCmp = R HOR;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM20mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EABB36;
+Reference = R20;
+ValeurCmp = R HORI;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM20mm;
+EndCmp
+
+EndListe
